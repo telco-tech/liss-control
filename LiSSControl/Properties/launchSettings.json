@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LiSSControl": {
+      "commandName": "Project",
+      "commandLineArgs": "--host=demo.liss.de --port=10443 --user=demo --password=Demo4Liss --operation=Poweroff --thumbprint=B8FCD3F89D6F7504A870907BAE791A2166894B27"
+    }
+  }
+}

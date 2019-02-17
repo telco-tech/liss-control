@@ -3,6 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Daniel Kautz</Authors>
+    <Company>TELCO TECH GmbH</Company>
+    <Product>LiSS Control</Product>
+    <Description>Desktop control program for LiSS series appliances.</Description>
+    <Copyright>Copyright © 2019 Daniel Kautz, TELCO TECH GmbH</Copyright>
   </PropertyGroup>
 
 </Project>
